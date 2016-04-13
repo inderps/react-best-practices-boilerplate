@@ -1,6 +1,22 @@
 # react-best-practices-boilerplate
 
-This is another opinionated react boilerplate inspired from (https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.tzr6zy9q8)
+This is another opinionated react boilerplate
+
+## TODOS
+
+ - npm setup and add react and babel 
+ - webpack setup
+ - redux setup with example
+ - setup testing framework
+ - setup utility library (eg:- lodash) and provide a example
+ - setup fetch and show a example
+ - setup css framework(postcss, autoprefixer)
+ - css modules and provide a example
+ - integrate circle ci
+ - integrate dependency status
+ - add license
+ - gitter
+
 
 [![Circle CI](https://img.shields.io/circleci/project/este/este/master.svg)](https://circleci.com/gh/este/este)
 [![Join the chat at https://gitter.im/este/este](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/este/este)
